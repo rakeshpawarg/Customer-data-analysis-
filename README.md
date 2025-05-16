@@ -16,7 +16,7 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 2.Analyze consumer goods sales, inventory, and performance metrics.
 3.Extract meaningful insights to support strategic decision-making within the consumer goods domain.
 # Key Insights
-1.Significant Increase in Unique Products: The dataset reveals a notable increase in unique products, with 334 identified in 2021 compared to 245 in 2020.
+1.Significant Increase in Unique Products: The dataset reveals a notable increase in unique products, with 334 identified in 2021 compared to 245 in 2020.            
 2.Top Product Segment - "Notebook": The "Notebook" segment emerges as the most prominent category, boasting the highest product count, with 129 distinct products.
 3.Rise in "Accessories" Segment: The "Accessories" segment witnessed a significant increase in product counts, with 34 more products recorded in 2021 compared to 2020.
 4.Leading Retailer - "Flipkart": Among retailers, "Flipkart" stands out with the highest average pre-invoice discount percentage, recorded at 30.83%.
